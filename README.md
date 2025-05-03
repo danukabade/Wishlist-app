@@ -34,4 +34,8 @@ npm install
 📌 Start React App
 npm start
 
-
+🔹 Tech Stack
+Frontend: React, JavaScript, JSX, CSS
+Backend: Flask, Python, SQLAlchemy
+Database: SQLite (or your preferred database)
+Deployment: GitHub Pages (Frontend)
